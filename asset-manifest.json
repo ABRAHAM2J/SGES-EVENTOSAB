@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SGES-EVENTOSAB/static/css/main.82ca9d1d.css",
+    "main.js": "/SGES-EVENTOSAB/static/js/main.df6bae44.js",
+    "static/js/787.5e333af2.chunk.js": "/SGES-EVENTOSAB/static/js/787.5e333af2.chunk.js",
+    "static/media/image4.jpg": "/SGES-EVENTOSAB/static/media/image4.2916397c41db0e43fcdd.jpg",
+    "index.html": "/SGES-EVENTOSAB/index.html",
+    "main.82ca9d1d.css.map": "/SGES-EVENTOSAB/static/css/main.82ca9d1d.css.map",
+    "main.df6bae44.js.map": "/SGES-EVENTOSAB/static/js/main.df6bae44.js.map",
+    "787.5e333af2.chunk.js.map": "/SGES-EVENTOSAB/static/js/787.5e333af2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82ca9d1d.css",
+    "static/js/main.df6bae44.js"
+  ]
+}
